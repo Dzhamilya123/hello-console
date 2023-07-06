@@ -1,0 +1,15 @@
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\bin\Debug\net6.0\examples001_hello word.exe
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\bin\Debug\net6.0\examples001_hello word.deps.json
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\bin\Debug\net6.0\examples001_hello word.runtimeconfig.json
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\bin\Debug\net6.0\examples001_hello word.dll
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\bin\Debug\net6.0\examples001_hello word.pdb
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\obj\Debug\net6.0\examples001_hello word.csproj.AssemblyReference.cache
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\obj\Debug\net6.0\examples001_hello word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\obj\Debug\net6.0\examples001_hello word.AssemblyInfoInputs.cache
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\obj\Debug\net6.0\examples001_hello word.AssemblyInfo.cs
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\obj\Debug\net6.0\examples001_hello word.csproj.CoreCompileInputs.cache
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\obj\Debug\net6.0\examples001_hello word.dll
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\obj\Debug\net6.0\refint\examples001_hello word.dll
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\obj\Debug\net6.0\examples001_hello word.pdb
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\obj\Debug\net6.0\examples001_hello word.genruntimeconfig.cache
+C:\Users\COMP_SERVIS_777\Desktop\examples\examples001_hello word\obj\Debug\net6.0\ref\examples001_hello word.dll
